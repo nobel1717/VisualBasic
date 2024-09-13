@@ -1,0 +1,16 @@
+E:\Visual Basic\Asig5\NobelDeGracia\Candado\bin\Debug\net8.0-windows\Candado.exe
+E:\Visual Basic\Asig5\NobelDeGracia\Candado\bin\Debug\net8.0-windows\Candado.deps.json
+E:\Visual Basic\Asig5\NobelDeGracia\Candado\bin\Debug\net8.0-windows\Candado.runtimeconfig.json
+E:\Visual Basic\Asig5\NobelDeGracia\Candado\bin\Debug\net8.0-windows\Candado.dll
+E:\Visual Basic\Asig5\NobelDeGracia\Candado\bin\Debug\net8.0-windows\Candado.pdb
+E:\Visual Basic\Asig5\NobelDeGracia\Candado\obj\Debug\net8.0-windows\Candado.Form1.resources
+E:\Visual Basic\Asig5\NobelDeGracia\Candado\obj\Debug\net8.0-windows\Candado.vbproj.GenerateResource.cache
+E:\Visual Basic\Asig5\NobelDeGracia\Candado\obj\Debug\net8.0-windows\Candado.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Basic\Asig5\NobelDeGracia\Candado\obj\Debug\net8.0-windows\Candado.AssemblyInfoInputs.cache
+E:\Visual Basic\Asig5\NobelDeGracia\Candado\obj\Debug\net8.0-windows\Candado.AssemblyInfo.vb
+E:\Visual Basic\Asig5\NobelDeGracia\Candado\obj\Debug\net8.0-windows\Candado.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Asig5\NobelDeGracia\Candado\obj\Debug\net8.0-windows\Candado.dll
+E:\Visual Basic\Asig5\NobelDeGracia\Candado\obj\Debug\net8.0-windows\refint\Candado.dll
+E:\Visual Basic\Asig5\NobelDeGracia\Candado\obj\Debug\net8.0-windows\Candado.pdb
+E:\Visual Basic\Asig5\NobelDeGracia\Candado\obj\Debug\net8.0-windows\Candado.genruntimeconfig.cache
+E:\Visual Basic\Asig5\NobelDeGracia\Candado\obj\Debug\net8.0-windows\ref\Candado.dll

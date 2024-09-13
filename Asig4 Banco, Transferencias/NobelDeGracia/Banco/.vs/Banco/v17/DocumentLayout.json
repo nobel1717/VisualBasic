@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Basic\\Asig4\\NobelDeGracia\\Banco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFFED1C-63F2-45B9-A453-71D294180B1B}|Banco.vbproj|e:\\visual basic\\asig4\\nobeldegracia\\banco\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1FFFED1C-63F2-45B9-A453-71D294180B1B}|Banco.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFFED1C-63F2-45B9-A453-71D294180B1B}|Banco.vbproj|e:\\visual basic\\asig4\\nobeldegracia\\banco\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1FFFED1C-63F2-45B9-A453-71D294180B1B}|Banco.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "E:\\Visual Basic\\Asig4\\NobelDeGracia\\Banco\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\Visual Basic\\Asig4\\NobelDeGracia\\Banco\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-28T23:00:09.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Visual Basic\\Asig4\\NobelDeGracia\\Banco\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\Visual Basic\\Asig4\\NobelDeGracia\\Banco\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-28T22:56:30.08Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

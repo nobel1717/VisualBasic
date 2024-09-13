@@ -1,0 +1,48 @@
+E:\Visual Basic\ParcialSOv2\bin\Debug\net8.0-windows\ParcialSOv2.exe
+E:\Visual Basic\ParcialSOv2\bin\Debug\net8.0-windows\ParcialSOv2.deps.json
+E:\Visual Basic\ParcialSOv2\bin\Debug\net8.0-windows\ParcialSOv2.runtimeconfig.json
+E:\Visual Basic\ParcialSOv2\bin\Debug\net8.0-windows\ParcialSOv2.dll
+E:\Visual Basic\ParcialSOv2\bin\Debug\net8.0-windows\ParcialSOv2.pdb
+E:\Visual Basic\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.Form1.resources
+E:\Visual Basic\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.vbproj.GenerateResource.cache
+E:\Visual Basic\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Basic\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.AssemblyInfoInputs.cache
+E:\Visual Basic\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.AssemblyInfo.vb
+E:\Visual Basic\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.dll
+E:\Visual Basic\ParcialSOv2\obj\Debug\net8.0-windows\refint\ParcialSOv2.dll
+E:\Visual Basic\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.pdb
+E:\Visual Basic\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.genruntimeconfig.cache
+E:\Visual Basic\ParcialSOv2\obj\Debug\net8.0-windows\ref\ParcialSOv2.dll
+E:\Visual Basic\ParcialSOv2\ParcialSOv2\bin\Debug\net8.0-windows\ParcialSOv2.exe
+E:\Visual Basic\ParcialSOv2\ParcialSOv2\bin\Debug\net8.0-windows\ParcialSOv2.deps.json
+E:\Visual Basic\ParcialSOv2\ParcialSOv2\bin\Debug\net8.0-windows\ParcialSOv2.runtimeconfig.json
+E:\Visual Basic\ParcialSOv2\ParcialSOv2\bin\Debug\net8.0-windows\ParcialSOv2.dll
+E:\Visual Basic\ParcialSOv2\ParcialSOv2\bin\Debug\net8.0-windows\ParcialSOv2.pdb
+E:\Visual Basic\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.Form1.resources
+E:\Visual Basic\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.vbproj.GenerateResource.cache
+E:\Visual Basic\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Basic\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.AssemblyInfoInputs.cache
+E:\Visual Basic\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.AssemblyInfo.vb
+E:\Visual Basic\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.dll
+E:\Visual Basic\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\refint\ParcialSOv2.dll
+E:\Visual Basic\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.pdb
+E:\Visual Basic\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.genruntimeconfig.cache
+E:\Visual Basic\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ref\ParcialSOv2.dll
+C:\Users\johny\Downloads\ParcialSOv2\ParcialSOv2\ParcialSOv2\bin\Debug\net8.0-windows\ParcialSOv2.exe
+C:\Users\johny\Downloads\ParcialSOv2\ParcialSOv2\ParcialSOv2\bin\Debug\net8.0-windows\ParcialSOv2.deps.json
+C:\Users\johny\Downloads\ParcialSOv2\ParcialSOv2\ParcialSOv2\bin\Debug\net8.0-windows\ParcialSOv2.runtimeconfig.json
+C:\Users\johny\Downloads\ParcialSOv2\ParcialSOv2\ParcialSOv2\bin\Debug\net8.0-windows\ParcialSOv2.dll
+C:\Users\johny\Downloads\ParcialSOv2\ParcialSOv2\ParcialSOv2\bin\Debug\net8.0-windows\ParcialSOv2.pdb
+C:\Users\johny\Downloads\ParcialSOv2\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.Form1.resources
+C:\Users\johny\Downloads\ParcialSOv2\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.vbproj.GenerateResource.cache
+C:\Users\johny\Downloads\ParcialSOv2\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johny\Downloads\ParcialSOv2\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.AssemblyInfoInputs.cache
+C:\Users\johny\Downloads\ParcialSOv2\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.AssemblyInfo.vb
+C:\Users\johny\Downloads\ParcialSOv2\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.vbproj.CoreCompileInputs.cache
+C:\Users\johny\Downloads\ParcialSOv2\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.dll
+C:\Users\johny\Downloads\ParcialSOv2\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\refint\ParcialSOv2.dll
+C:\Users\johny\Downloads\ParcialSOv2\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.pdb
+C:\Users\johny\Downloads\ParcialSOv2\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ParcialSOv2.genruntimeconfig.cache
+C:\Users\johny\Downloads\ParcialSOv2\ParcialSOv2\ParcialSOv2\obj\Debug\net8.0-windows\ref\ParcialSOv2.dll

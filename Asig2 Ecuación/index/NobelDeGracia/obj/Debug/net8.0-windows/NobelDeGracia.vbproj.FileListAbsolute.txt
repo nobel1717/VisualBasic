@@ -1,0 +1,17 @@
+E:\Visual Basic\Ecuación\index\NobelDeGracia\obj\Debug\net8.0-windows\NobelDeGracia.Form1.resources
+E:\Visual Basic\Ecuación\index\NobelDeGracia\obj\Debug\net8.0-windows\NobelDeGracia.vbproj.GenerateResource.cache
+E:\Visual Basic\Ecuación\index\NobelDeGracia\obj\Debug\net8.0-windows\NobelDeGracia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Basic\Ecuación\index\NobelDeGracia\obj\Debug\net8.0-windows\NobelDeGracia.AssemblyInfoInputs.cache
+E:\Visual Basic\Ecuación\index\NobelDeGracia\obj\Debug\net8.0-windows\NobelDeGracia.AssemblyInfo.vb
+E:\Visual Basic\Ecuación\index\NobelDeGracia\obj\Debug\net8.0-windows\NobelDeGracia.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Ecuación\index\NobelDeGracia\bin\Debug\net8.0-windows\NobelDeGracia.exe
+E:\Visual Basic\Ecuación\index\NobelDeGracia\bin\Debug\net8.0-windows\NobelDeGracia.deps.json
+E:\Visual Basic\Ecuación\index\NobelDeGracia\bin\Debug\net8.0-windows\NobelDeGracia.runtimeconfig.json
+E:\Visual Basic\Ecuación\index\NobelDeGracia\bin\Debug\net8.0-windows\NobelDeGracia.dll
+E:\Visual Basic\Ecuación\index\NobelDeGracia\bin\Debug\net8.0-windows\NobelDeGracia.pdb
+E:\Visual Basic\Ecuación\index\NobelDeGracia\obj\Debug\net8.0-windows\NobelDeGracia.dll
+E:\Visual Basic\Ecuación\index\NobelDeGracia\obj\Debug\net8.0-windows\refint\NobelDeGracia.dll
+E:\Visual Basic\Ecuación\index\NobelDeGracia\obj\Debug\net8.0-windows\NobelDeGracia.pdb
+E:\Visual Basic\Ecuación\index\NobelDeGracia\obj\Debug\net8.0-windows\NobelDeGracia.genruntimeconfig.cache
+E:\Visual Basic\Ecuación\index\NobelDeGracia\obj\Debug\net8.0-windows\ref\NobelDeGracia.dll
+E:\Visual Basic\Ecuación\index\NobelDeGracia\obj\Debug\net8.0-windows\NobelDeGracia.Resources.resources

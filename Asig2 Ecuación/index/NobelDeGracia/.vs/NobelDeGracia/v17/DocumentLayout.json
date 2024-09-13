@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Basic\\Ecuaci\u00F3n\\index\\NobelDeGracia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4A6748-0101-456D-81FB-D6E3263B61A2}|NobelDeGracia.vbproj|e:\\visual basic\\ecuaci\u00F3n\\index\\nobeldegracia\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9B4A6748-0101-456D-81FB-D6E3263B61A2}|NobelDeGracia.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4A6748-0101-456D-81FB-D6E3263B61A2}|NobelDeGracia.vbproj|e:\\visual basic\\ecuaci\u00F3n\\index\\nobeldegracia\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9B4A6748-0101-456D-81FB-D6E3263B61A2}|NobelDeGracia.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "E:\\Visual Basic\\Ecuaci\u00F3n\\index\\NobelDeGracia\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\Visual Basic\\Ecuaci\u00F3n\\index\\NobelDeGracia\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T06:15:21.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Visual Basic\\Ecuaci\u00F3n\\index\\NobelDeGracia\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\Visual Basic\\Ecuaci\u00F3n\\index\\NobelDeGracia\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T06:10:57.659Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

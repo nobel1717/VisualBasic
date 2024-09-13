@@ -1,0 +1,11 @@
+E:\Visual Basic\Asig3\NobelDeGracia\Parte 2\Asig3_Parte2\bin\Debug\Asig3_Parte2.exe.config
+E:\Visual Basic\Asig3\NobelDeGracia\Parte 2\Asig3_Parte2\bin\Debug\Asig3_Parte2.exe
+E:\Visual Basic\Asig3\NobelDeGracia\Parte 2\Asig3_Parte2\bin\Debug\Asig3_Parte2.pdb
+E:\Visual Basic\Asig3\NobelDeGracia\Parte 2\Asig3_Parte2\bin\Debug\Asig3_Parte2.xml
+E:\Visual Basic\Asig3\NobelDeGracia\Parte 2\Asig3_Parte2\obj\Debug\Asig3_Parte2.vbproj.AssemblyReference.cache
+E:\Visual Basic\Asig3\NobelDeGracia\Parte 2\Asig3_Parte2\obj\Debug\Asig3_Parte2.Resources.resources
+E:\Visual Basic\Asig3\NobelDeGracia\Parte 2\Asig3_Parte2\obj\Debug\Asig3_Parte2.vbproj.GenerateResource.cache
+E:\Visual Basic\Asig3\NobelDeGracia\Parte 2\Asig3_Parte2\obj\Debug\Asig3_Parte2.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Asig3\NobelDeGracia\Parte 2\Asig3_Parte2\obj\Debug\Asig3_Parte2.exe
+E:\Visual Basic\Asig3\NobelDeGracia\Parte 2\Asig3_Parte2\obj\Debug\Asig3_Parte2.xml
+E:\Visual Basic\Asig3\NobelDeGracia\Parte 2\Asig3_Parte2\obj\Debug\Asig3_Parte2.pdb

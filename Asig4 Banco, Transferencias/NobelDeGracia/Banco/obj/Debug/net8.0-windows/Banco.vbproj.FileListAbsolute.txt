@@ -1,0 +1,17 @@
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\bin\Debug\net8.0-windows\Banco.exe
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\bin\Debug\net8.0-windows\Banco.deps.json
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\bin\Debug\net8.0-windows\Banco.runtimeconfig.json
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\bin\Debug\net8.0-windows\Banco.dll
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\bin\Debug\net8.0-windows\Banco.pdb
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\obj\Debug\net8.0-windows\Banco.Form1.resources
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\obj\Debug\net8.0-windows\Banco.vbproj.GenerateResource.cache
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\obj\Debug\net8.0-windows\Banco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\obj\Debug\net8.0-windows\Banco.AssemblyInfoInputs.cache
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\obj\Debug\net8.0-windows\Banco.AssemblyInfo.vb
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\obj\Debug\net8.0-windows\Banco.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\obj\Debug\net8.0-windows\Banco.dll
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\obj\Debug\net8.0-windows\refint\Banco.dll
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\obj\Debug\net8.0-windows\Banco.pdb
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\obj\Debug\net8.0-windows\Banco.genruntimeconfig.cache
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\obj\Debug\net8.0-windows\ref\Banco.dll
+E:\Visual Basic\Asig4\NobelDeGracia\Banco\obj\Debug\net8.0-windows\Banco.Resources.resources

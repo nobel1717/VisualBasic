@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Basic\\Asig3\\NobelDeGracia\\Parte 3\\Asig_Parte3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A0C4A6-FE79-4249-9A82-3227ECC50ACB}|Asig_Parte3.vbproj|e:\\visual basic\\asig3\\nobeldegracia\\parte 3\\asig_parte3\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A7A0C4A6-FE79-4249-9A82-3227ECC50ACB}|Asig_Parte3.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "E:\\Visual Basic\\Asig3\\NobelDeGracia\\Parte 3\\Asig_Parte3\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "E:\\Visual Basic\\Asig3\\NobelDeGracia\\Parte 3\\Asig_Parte3\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-22T19:19:16.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
