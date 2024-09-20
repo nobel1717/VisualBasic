@@ -14,3 +14,5 @@ E:\Visual Basic\Proyecto 1\NobelDeGracia\obj\Debug\net8.0-windows\refint\NobelDe
 E:\Visual Basic\Proyecto 1\NobelDeGracia\obj\Debug\net8.0-windows\NobelDeGracia.pdb
 E:\Visual Basic\Proyecto 1\NobelDeGracia\obj\Debug\net8.0-windows\NobelDeGracia.genruntimeconfig.cache
 E:\Visual Basic\Proyecto 1\NobelDeGracia\obj\Debug\net8.0-windows\ref\NobelDeGracia.dll
+E:\Visual Basic\Proyecto 1\NobelDeGracia\obj\Debug\net8.0-windows\NobelDeGracia.sourcelink.json
+E:\Visual Basic\Proyecto 1\NobelDeGracia\obj\Debug\net8.0-windows\NobelDeGracia.Resources.resources

@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Basic\\Asig7 Splash y MDI\\NobelDeGracia\\SplashForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDABF99-392A-4BC5-8922-9BF8CAD8F892}|SplashForm.vbproj|e:\\visual basic\\asig7 splash y mdi\\nobeldegracia\\splashform\\datagridviewform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3BDABF99-392A-4BC5-8922-9BF8CAD8F892}|SplashForm.vbproj|solutionrelative:datagridviewform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDABF99-392A-4BC5-8922-9BF8CAD8F892}|SplashForm.vbproj|e:\\visual basic\\asig7 splash y mdi\\nobeldegracia\\splashform\\datagridviewform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3BDABF99-392A-4BC5-8922-9BF8CAD8F892}|SplashForm.vbproj|solutionrelative:datagridviewform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDABF99-392A-4BC5-8922-9BF8CAD8F892}|SplashForm.vbproj|e:\\visual basic\\asig7 splash y mdi\\nobeldegracia\\splashform\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3BDABF99-392A-4BC5-8922-9BF8CAD8F892}|SplashForm.vbproj|solutionrelative:principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDABF99-392A-4BC5-8922-9BF8CAD8F892}|SplashForm.vbproj|e:\\visual basic\\asig7 splash y mdi\\nobeldegracia\\splashform\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3BDABF99-392A-4BC5-8922-9BF8CAD8F892}|SplashForm.vbproj|solutionrelative:principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDABF99-392A-4BC5-8922-9BF8CAD8F892}|SplashForm.vbproj|e:\\visual basic\\asig7 splash y mdi\\nobeldegracia\\splashform\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3BDABF99-392A-4BC5-8922-9BF8CAD8F892}|SplashForm.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDABF99-392A-4BC5-8922-9BF8CAD8F892}|SplashForm.vbproj|e:\\visual basic\\asig7 splash y mdi\\nobeldegracia\\splashform\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3BDABF99-392A-4BC5-8922-9BF8CAD8F892}|SplashForm.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataGridViewForm.vb",
+              "DocumentMoniker": "E:\\Visual Basic\\Asig7 Splash y MDI\\NobelDeGracia\\SplashForm\\DataGridViewForm.vb",
+              "RelativeDocumentMoniker": "DataGridViewForm.vb",
+              "ToolTip": "E:\\Visual Basic\\Asig7 Splash y MDI\\NobelDeGracia\\SplashForm\\DataGridViewForm.vb",
+              "RelativeToolTip": "DataGridViewForm.vb",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-19T15:48:31.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataGridViewForm.vb [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Visual Basic\\Asig7 Splash y MDI\\NobelDeGracia\\SplashForm\\DataGridViewForm.vb",
+              "RelativeDocumentMoniker": "DataGridViewForm.vb",
+              "ToolTip": "E:\\Visual Basic\\Asig7 Splash y MDI\\NobelDeGracia\\SplashForm\\DataGridViewForm.vb [Dise\u00F1o]",
+              "RelativeToolTip": "DataGridViewForm.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-19T15:47:31.368Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Principal.vb",
+              "DocumentMoniker": "E:\\Visual Basic\\Asig7 Splash y MDI\\NobelDeGracia\\SplashForm\\Principal.vb",
+              "RelativeDocumentMoniker": "Principal.vb",
+              "ToolTip": "E:\\Visual Basic\\Asig7 Splash y MDI\\NobelDeGracia\\SplashForm\\Principal.vb",
+              "RelativeToolTip": "Principal.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-19T15:43:22.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Principal.vb [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Visual Basic\\Asig7 Splash y MDI\\NobelDeGracia\\SplashForm\\Principal.vb",
+              "RelativeDocumentMoniker": "Principal.vb",
+              "ToolTip": "E:\\Visual Basic\\Asig7 Splash y MDI\\NobelDeGracia\\SplashForm\\Principal.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Principal.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-19T15:11:47.794Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "E:\\Visual Basic\\Asig7 Splash y MDI\\NobelDeGracia\\SplashForm\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\Visual Basic\\Asig7 Splash y MDI\\NobelDeGracia\\SplashForm\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-19T03:37:54.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Visual Basic\\Asig7 Splash y MDI\\NobelDeGracia\\SplashForm\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\Visual Basic\\Asig7 Splash y MDI\\NobelDeGracia\\SplashForm\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-19T03:26:41.067Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

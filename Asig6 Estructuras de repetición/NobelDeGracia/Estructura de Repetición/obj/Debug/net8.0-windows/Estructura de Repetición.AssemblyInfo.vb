@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Estructura de Repetición"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+495780aa74fac26554ac8e7ed63e1d928d47a68e"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Estructura de Repetición"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Estructura de Repetición"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

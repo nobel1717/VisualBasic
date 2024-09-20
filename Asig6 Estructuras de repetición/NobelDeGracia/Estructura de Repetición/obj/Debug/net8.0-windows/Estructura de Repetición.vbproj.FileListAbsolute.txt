@@ -1,0 +1,17 @@
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\bin\Debug\net8.0-windows\Estructura de Repetición.exe
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\bin\Debug\net8.0-windows\Estructura de Repetición.deps.json
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\bin\Debug\net8.0-windows\Estructura de Repetición.runtimeconfig.json
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\bin\Debug\net8.0-windows\Estructura de Repetición.dll
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\bin\Debug\net8.0-windows\Estructura de Repetición.pdb
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\obj\Debug\net8.0-windows\Estructura_de_Repetición.Form1.resources
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\obj\Debug\net8.0-windows\Estructura de Repetición.vbproj.GenerateResource.cache
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\obj\Debug\net8.0-windows\Estructura de Repetición.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\obj\Debug\net8.0-windows\Estructura de Repetición.AssemblyInfoInputs.cache
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\obj\Debug\net8.0-windows\Estructura de Repetición.AssemblyInfo.vb
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\obj\Debug\net8.0-windows\Estructura de Repetición.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\obj\Debug\net8.0-windows\Estructura de Repetición.sourcelink.json
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\obj\Debug\net8.0-windows\Estructura de Repetición.dll
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\obj\Debug\net8.0-windows\refint\Estructura de Repetición.dll
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\obj\Debug\net8.0-windows\Estructura de Repetición.pdb
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\obj\Debug\net8.0-windows\Estructura de Repetición.genruntimeconfig.cache
+E:\Visual Basic\Asig6 Estructuras de repetición\NobelDeGracia\Estructura de Repetición\obj\Debug\net8.0-windows\ref\Estructura de Repetición.dll

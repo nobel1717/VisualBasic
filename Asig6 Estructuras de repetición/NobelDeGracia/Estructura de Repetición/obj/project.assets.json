@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Visual Basic\\Asig6\\NobelDeGracia\\Estructura de Repetición\\Estructura de Repetición.vbproj",
+      "projectUniqueName": "E:\\Visual Basic\\Asig6 Estructuras de repetición\\NobelDeGracia\\Estructura de Repetición\\Estructura de Repetición.vbproj",
       "projectName": "Estructura de Repetición",
-      "projectPath": "E:\\Visual Basic\\Asig6\\NobelDeGracia\\Estructura de Repetición\\Estructura de Repetición.vbproj",
+      "projectPath": "E:\\Visual Basic\\Asig6 Estructuras de repetición\\NobelDeGracia\\Estructura de Repetición\\Estructura de Repetición.vbproj",
       "packagesPath": "C:\\Users\\isaid\\.nuget\\packages\\",
-      "outputPath": "E:\\Visual Basic\\Asig6\\NobelDeGracia\\Estructura de Repetición\\obj\\",
+      "outputPath": "E:\\Visual Basic\\Asig6 Estructuras de repetición\\NobelDeGracia\\Estructura de Repetición\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\isaid\\AppData\\Roaming\\NuGet\\NuGet.Config",
