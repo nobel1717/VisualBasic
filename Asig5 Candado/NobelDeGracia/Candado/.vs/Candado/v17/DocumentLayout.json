@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Visual Basic\\Asig5\\NobelDeGracia\\Candado\\",
+  "WorkspaceRootPath": "E:\\Visual Basic\\Asig5 Candado\\NobelDeGracia\\Candado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9707A46F-9FAE-4F69-8D85-0153D3958742}|Candado.vbproj|e:\\visual basic\\asig5\\nobeldegracia\\candado\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{9707A46F-9FAE-4F69-8D85-0153D3958742}|Candado.vbproj|e:\\visual basic\\asig5 candado\\nobeldegracia\\candado\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{9707A46F-9FAE-4F69-8D85-0153D3958742}|Candado.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9707A46F-9FAE-4F69-8D85-0153D3958742}|Candado.vbproj|e:\\visual basic\\asig5\\nobeldegracia\\candado\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{9707A46F-9FAE-4F69-8D85-0153D3958742}|Candado.vbproj|e:\\visual basic\\asig5 candado\\nobeldegracia\\candado\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{9707A46F-9FAE-4F69-8D85-0153D3958742}|Candado.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.vb",
-              "DocumentMoniker": "E:\\Visual Basic\\Asig5\\NobelDeGracia\\Candado\\Form1.vb",
+              "DocumentMoniker": "E:\\Visual Basic\\Asig5 Candado\\NobelDeGracia\\Candado\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "E:\\Visual Basic\\Asig5\\NobelDeGracia\\Candado\\Form1.vb",
+              "ToolTip": "E:\\Visual Basic\\Asig5 Candado\\NobelDeGracia\\Candado\\Form1.vb",
               "RelativeToolTip": "Form1.vb",
               "ViewState": "AgIAABIAAAAAAAAAAAAowDUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.vb [Dise\u00F1o]",
-              "DocumentMoniker": "E:\\Visual Basic\\Asig5\\NobelDeGracia\\Candado\\Form1.vb",
+              "DocumentMoniker": "E:\\Visual Basic\\Asig5 Candado\\NobelDeGracia\\Candado\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "E:\\Visual Basic\\Asig5\\NobelDeGracia\\Candado\\Form1.vb [Dise\u00F1o]",
+              "ToolTip": "E:\\Visual Basic\\Asig5 Candado\\NobelDeGracia\\Candado\\Form1.vb [Dise\u00F1o]",
               "RelativeToolTip": "Form1.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-09-05T16:49:42.663Z",

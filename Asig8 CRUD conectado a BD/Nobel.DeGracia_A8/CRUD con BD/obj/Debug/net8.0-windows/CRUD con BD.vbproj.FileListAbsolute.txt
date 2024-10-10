@@ -1,0 +1,56 @@
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\CRUD con BD.exe
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\CRUD con BD.dll.config
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\CRUD con BD.deps.json
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\CRUD con BD.runtimeconfig.json
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\CRUD con BD.dll
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\CRUD con BD.pdb
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD_con_BD.Form1.resources
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.vbproj.GenerateResource.cache
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.AssemblyInfoInputs.cache
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.AssemblyInfo.vb
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.sourcelink.json
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.dll
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\refint\CRUD con BD.dll
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.pdb
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.genruntimeconfig.cache
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\ref\CRUD con BD.dll
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.vbproj.AssemblyReference.cache
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con.105952EB.Up2Date
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD_con_BD.Form2.resources
+E:\Visual Basic\Asig 8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD_con_BD.Resources.resources
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\CRUD con BD.exe
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\CRUD con BD.dll.config
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\CRUD con BD.deps.json
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\CRUD con BD.runtimeconfig.json
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\CRUD con BD.dll
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\CRUD con BD.pdb
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.vbproj.AssemblyReference.cache
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD_con_BD.Form1.resources
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD_con_BD.Form2.resources
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD_con_BD.Resources.resources
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.vbproj.GenerateResource.cache
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.AssemblyInfoInputs.cache
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.AssemblyInfo.vb
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.sourcelink.json
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con.105952EB.Up2Date
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.dll
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\refint\CRUD con BD.dll
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.pdb
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\CRUD con BD.genruntimeconfig.cache
+E:\Visual Basic\Asig8 CRUD conectado a BD\CRUD con BD\obj\Debug\net8.0-windows\ref\CRUD con BD.dll

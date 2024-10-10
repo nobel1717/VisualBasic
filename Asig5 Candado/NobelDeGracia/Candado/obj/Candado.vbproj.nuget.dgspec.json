@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Visual Basic\\Asig5\\NobelDeGracia\\Candado\\Candado.vbproj": {}
+    "E:\\Visual Basic\\Asig5 Candado\\NobelDeGracia\\Candado\\Candado.vbproj": {}
   },
   "projects": {
-    "E:\\Visual Basic\\Asig5\\NobelDeGracia\\Candado\\Candado.vbproj": {
+    "E:\\Visual Basic\\Asig5 Candado\\NobelDeGracia\\Candado\\Candado.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual Basic\\Asig5\\NobelDeGracia\\Candado\\Candado.vbproj",
+        "projectUniqueName": "E:\\Visual Basic\\Asig5 Candado\\NobelDeGracia\\Candado\\Candado.vbproj",
         "projectName": "Candado",
-        "projectPath": "E:\\Visual Basic\\Asig5\\NobelDeGracia\\Candado\\Candado.vbproj",
+        "projectPath": "E:\\Visual Basic\\Asig5 Candado\\NobelDeGracia\\Candado\\Candado.vbproj",
         "packagesPath": "C:\\Users\\isaid\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual Basic\\Asig5\\NobelDeGracia\\Candado\\obj\\",
+        "outputPath": "E:\\Visual Basic\\Asig5 Candado\\NobelDeGracia\\Candado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isaid\\AppData\\Roaming\\NuGet\\NuGet.Config",

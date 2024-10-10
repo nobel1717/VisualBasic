@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Basic\\Parcial 1 DES VIII\\NobelDeGracia_Parcial1\\Enunciado 2 y 3\\Enunciado 2 y 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{080676BF-4657-4509-8DF5-A749B9D19B5F}|Enunciado 2 y 3.vbproj|e:\\visual basic\\parcial 1 des viii\\nobeldegracia_parcial1\\enunciado 2 y 3\\enunciado 2 y 3\\frmcalificaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{080676BF-4657-4509-8DF5-A749B9D19B5F}|Enunciado 2 y 3.vbproj|solutionrelative:frmcalificaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080676BF-4657-4509-8DF5-A749B9D19B5F}|Enunciado 2 y 3.vbproj|e:\\visual basic\\parcial 1 des viii\\nobeldegracia_parcial1\\enunciado 2 y 3\\enunciado 2 y 3\\frmcalificaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{080676BF-4657-4509-8DF5-A749B9D19B5F}|Enunciado 2 y 3.vbproj|solutionrelative:frmcalificaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080676BF-4657-4509-8DF5-A749B9D19B5F}|Enunciado 2 y 3.vbproj|e:\\visual basic\\parcial 1 des viii\\nobeldegracia_parcial1\\enunciado 2 y 3\\enunciado 2 y 3\\frmahorros.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{080676BF-4657-4509-8DF5-A749B9D19B5F}|Enunciado 2 y 3.vbproj|solutionrelative:frmahorros.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080676BF-4657-4509-8DF5-A749B9D19B5F}|Enunciado 2 y 3.vbproj|e:\\visual basic\\parcial 1 des viii\\nobeldegracia_parcial1\\enunciado 2 y 3\\enunciado 2 y 3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{080676BF-4657-4509-8DF5-A749B9D19B5F}|Enunciado 2 y 3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080676BF-4657-4509-8DF5-A749B9D19B5F}|Enunciado 2 y 3.vbproj|e:\\visual basic\\parcial 1 des viii\\nobeldegracia_parcial1\\enunciado 2 y 3\\enunciado 2 y 3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{080676BF-4657-4509-8DF5-A749B9D19B5F}|Enunciado 2 y 3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080676BF-4657-4509-8DF5-A749B9D19B5F}|Enunciado 2 y 3.vbproj|e:\\visual basic\\parcial 1 des viii\\nobeldegracia_parcial1\\enunciado 2 y 3\\enunciado 2 y 3\\frmahorros.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{080676BF-4657-4509-8DF5-A749B9D19B5F}|Enunciado 2 y 3.vbproj|solutionrelative:frmahorros.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAhorros.vb",
+              "DocumentMoniker": "E:\\Visual Basic\\Parcial 1 DES VIII\\NobelDeGracia_Parcial1\\Enunciado 2 y 3\\Enunciado 2 y 3\\frmAhorros.vb",
+              "RelativeDocumentMoniker": "frmAhorros.vb",
+              "ToolTip": "E:\\Visual Basic\\Parcial 1 DES VIII\\NobelDeGracia_Parcial1\\Enunciado 2 y 3\\Enunciado 2 y 3\\frmAhorros.vb",
+              "RelativeToolTip": "frmAhorros.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-24T00:24:18.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCalificaciones.vb",
+              "DocumentMoniker": "E:\\Visual Basic\\Parcial 1 DES VIII\\NobelDeGracia_Parcial1\\Enunciado 2 y 3\\Enunciado 2 y 3\\frmCalificaciones.vb",
+              "RelativeDocumentMoniker": "frmCalificaciones.vb",
+              "ToolTip": "E:\\Visual Basic\\Parcial 1 DES VIII\\NobelDeGracia_Parcial1\\Enunciado 2 y 3\\Enunciado 2 y 3\\frmCalificaciones.vb",
+              "RelativeToolTip": "frmCalificaciones.vb",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswFcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-24T00:15:43.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCalificaciones.vb [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Visual Basic\\Parcial 1 DES VIII\\NobelDeGracia_Parcial1\\Enunciado 2 y 3\\Enunciado 2 y 3\\frmCalificaciones.vb",
+              "RelativeDocumentMoniker": "frmCalificaciones.vb",
+              "ToolTip": "E:\\Visual Basic\\Parcial 1 DES VIII\\NobelDeGracia_Parcial1\\Enunciado 2 y 3\\Enunciado 2 y 3\\frmCalificaciones.vb [Dise\u00F1o]",
+              "RelativeToolTip": "frmCalificaciones.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-24T00:09:56.121Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAhorros.vb [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Visual Basic\\Parcial 1 DES VIII\\NobelDeGracia_Parcial1\\Enunciado 2 y 3\\Enunciado 2 y 3\\frmAhorros.vb",
+              "RelativeDocumentMoniker": "frmAhorros.vb",
+              "ToolTip": "E:\\Visual Basic\\Parcial 1 DES VIII\\NobelDeGracia_Parcial1\\Enunciado 2 y 3\\Enunciado 2 y 3\\frmAhorros.vb [Dise\u00F1o]",
+              "RelativeToolTip": "frmAhorros.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-24T00:05:51.578Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "E:\\Visual Basic\\Parcial 1 DES VIII\\NobelDeGracia_Parcial1\\Enunciado 2 y 3\\Enunciado 2 y 3\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\Visual Basic\\Parcial 1 DES VIII\\NobelDeGracia_Parcial1\\Enunciado 2 y 3\\Enunciado 2 y 3\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-24T00:05:01.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Visual Basic\\Parcial 1 DES VIII\\NobelDeGracia_Parcial1\\Enunciado 2 y 3\\Enunciado 2 y 3\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\Visual Basic\\Parcial 1 DES VIII\\NobelDeGracia_Parcial1\\Enunciado 2 y 3\\Enunciado 2 y 3\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-24T00:03:17.442Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

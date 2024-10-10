@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Candado"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2a1f7f2fc22c53d2522556d9f9a4d3e7d0f8618"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Candado"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Candado"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

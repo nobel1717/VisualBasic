@@ -1,0 +1,19 @@
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\bin\Debug\net8.0-windows\Enunciado 2 y 3.exe
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\bin\Debug\net8.0-windows\Enunciado 2 y 3.deps.json
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\bin\Debug\net8.0-windows\Enunciado 2 y 3.runtimeconfig.json
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\bin\Debug\net8.0-windows\Enunciado 2 y 3.dll
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\bin\Debug\net8.0-windows\Enunciado 2 y 3.pdb
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\obj\Debug\net8.0-windows\Enunciado_2_y_3.Form1.resources
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\obj\Debug\net8.0-windows\Enunciado_2_y_3.frmAhorros.resources
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\obj\Debug\net8.0-windows\Enunciado_2_y_3.frmCalificaciones.resources
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\obj\Debug\net8.0-windows\Enunciado 2 y 3.vbproj.GenerateResource.cache
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\obj\Debug\net8.0-windows\Enunciado 2 y 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\obj\Debug\net8.0-windows\Enunciado 2 y 3.AssemblyInfoInputs.cache
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\obj\Debug\net8.0-windows\Enunciado 2 y 3.AssemblyInfo.vb
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\obj\Debug\net8.0-windows\Enunciado 2 y 3.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\obj\Debug\net8.0-windows\Enunciado 2 y 3.sourcelink.json
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\obj\Debug\net8.0-windows\Enunciado 2 y 3.dll
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\obj\Debug\net8.0-windows\refint\Enunciado 2 y 3.dll
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\obj\Debug\net8.0-windows\Enunciado 2 y 3.pdb
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\obj\Debug\net8.0-windows\Enunciado 2 y 3.genruntimeconfig.cache
+E:\Visual Basic\Parcial 1 DES VIII\NobelDeGracia_Parcial1\Enunciado 2 y 3\Enunciado 2 y 3\obj\Debug\net8.0-windows\ref\Enunciado 2 y 3.dll
